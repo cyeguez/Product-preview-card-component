@@ -2,7 +2,7 @@
 
 ## **Nombre: Product preview card component.**
 
-Descripción: product preview card component es un reto tomado por mi en fontendmenor(https://www.frontendmentor.io/home), el cual consiste en realizar una vista previa de una card de un producto, este proyecto debe poder adaptarse de manera responsiba a pantallas mobiles desktops.
+Descripción: product preview card component es un reto tomado por mi en fontendmentor(https://www.frontendmentor.io/home), el cual consiste en realizar una vista previa de una card de un producto, este proyecto debe poder adaptarse de manera responsiba a pantallas mobiles desktops.
 
 ### Capturas
 
