@@ -1,20 +1,43 @@
 # Frontend Mentor - Product preview card component
 
+## **Nombre: Product preview card component.**
 
-Nombre: Product preview card component.
+Descripción: product preview card component es un reto tomado por mi en fontendmenor(https://www.frontendmentor.io/home), el cual consiste en realizar una vista previa de una card de un producto, este proyecto debe poder adaptarse de manera responsiba a pantallas mobiles desktops.
 
-Descripción: product preview card component es un reto tomado por mi en  fontendmenor(https://www.frontendmentor.io/home), el cual consiste en realizar una vista previa de una card de un producto, este proyecto debe poder adaptarse de manera responsiba a pantallas mobiles desktops.
+### Capturas
 
-Capturas: 
-image.png
+| Mobile                   | Desktop                   |
+| ------------------------ | ------------------------- |
+| ![](./design/mobile.png) | ![](./design/desktop.png) |
+
+### Links
+
+- Solución
+
+  URL: https://cyeguez.github.io/Product-preview-card-component/
 
 
 
+### Proceso de desarrollo
+
+Inicie el proyecto creando el repositorio con lo indica la descripcion al momento de bajar el Reto.
+El proyecto se baso inicialmente en vista mobile luego a través de media queries lo ajuste a pantallas desktops.
+Trate de generar un html semantico colocando los nombres de las clases con un sentido descriptivo según la parte del componente a crear.
+En los estilos CSS definí en el root las variables como los colores y fuentes principales y secundaria.
 
 
-Use css vanilla y html , dentro del proyecto en el html definí una main que contenga el contenido principal, al final agregue un footer que contiene la firma que viene por default al bajara el proyecto.
+### Contruido con
 
-En el css use un contenedor aplicando grid para dividir la card en dos partes y poder cambiar la vistas según el tamaño de la pantalla, trate de darle nombre a las clases que hagan relación directa a la parte del componente.
+<!-- ul -->
 
-En los estilos definí en el root mis variables, siento que de esta forma todo esta más organizado y permite la modificación de manera mas eficiente.
+- HTML Semantico.
+- CSS vainilla.
+- Grid.
+- flex-box.
+- Diseño mobile.
 
+## Autor
+
+- Nombre: Cesar Yeguez
+- GibHub - [@cyeguez](https://github.com/cyeguez)
+- Frontend Mentor -[@cyeguez](https://www.frontendmentor.io/profile/cyeguez)
